@@ -1,0 +1,1 @@
+setup.exe /configure Configuration_O365_FR.xml
